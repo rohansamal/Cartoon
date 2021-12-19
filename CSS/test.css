@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+h1 {
+    font-size: 30px;
+    color: red;
+}
+h2 {
+    font-size: 10px;
+    color: seagreen;
+}
+.big 
+{font-size: 60px;}
+.uppercase
+{text-transform: uppercase;}
+
+.big .uppercase {color: slateblue;}
+
+span 
+{
+    color:turquoise;
+}
+
+h1 span 
+(
+   color: red;
+)
